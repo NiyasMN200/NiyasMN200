@@ -40,3 +40,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niyasmn200&show_icons=true&locale=en" alt="niyasmn200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyasmn200&" alt="niyasmn200" /></p>
+
+
+
+
+
+[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/niyasmn200?theme=dark&font=Cambay&ext=heatmap))
