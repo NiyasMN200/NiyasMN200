@@ -1,4 +1,28 @@
+# Hi, I'm Niyas 👋
 
+🎓 BE CSE (AIML) Student  
+🤖 AI/ML Enthusiast  
+💻 Building Real-World Projects  
+🚀 Always Learning & Exploring
+
+## 👨‍💻 About Me
+
+I'm a CSE (AIML) student interested in Artificial Intelligence,
+Machine Learning, and software development.
+
+I enjoy building projects, solving coding problems, and learning
+new technologies.
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mohamed-niyas-m-96907b37a/
+- LeetCode: https://leetcode.com/u/niyasmm200/
+
+
+
+
+
+  
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/nyxsteven) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nyxsteven) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mohamed Niyas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nyxsteven_41) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohamed Niyas) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nyxsteven) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niyasmohamed955@gmail.com) 
 
